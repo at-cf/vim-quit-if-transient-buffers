@@ -13,7 +13,7 @@ A tiny plugin that will close tabs (or quit vim) if the remaining buffers are tr
 Use your plugin manager of choice, e.g. [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug 'https://github.com/at-cf/vim-quit-if-transient-buffers.git'
+Plug 'at-cf/vim-quit-if-transient-buffers'
 ```
 
 ## Configure
